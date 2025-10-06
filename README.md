@@ -13,4 +13,4 @@ The player is presented with a number of bouncing balls on screen. A timer start
 
 ## ▶️ Play the Game!
 You can play the game in your browser on its itch.io page:
-****
+**https://shanmukha.itch.io/bounce-burst**
