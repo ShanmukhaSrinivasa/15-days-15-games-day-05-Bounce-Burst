@@ -1,6 +1,6 @@
-# 30-Days-30-Games-Day-05-Bounce-Burst
+# 15-Days-15-Games-Day-05-Bounce-Burst
 
-This is the fifth game from my "30 Days 30 Games" challenge. It is a 2D "time attack" game where the player's objective is to click on and destroy all target objects in the shortest time possible.
+This is the fifth game from my "15 Days 15 Games" challenge. It is a 2D "time attack" game where the player's objective is to click on and destroy all target objects in the shortest time possible.
 
 ## 🚀 About the Game
 The player is presented with a number of bouncing balls on screen. A timer starts, and the player must click on each ball to destroy it. Once all balls are destroyed, the timer stops. The player's time is recorded, and the goal is to achieve the lowest time possible.
